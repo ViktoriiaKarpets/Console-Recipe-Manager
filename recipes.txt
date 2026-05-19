@@ -1,0 +1,340 @@
+Spaghetti Bolognese;sos pomidorowy, mieso mielone, czosnek, cebula, oliwa z oliwek, spaghetti, sol, pieprz;30 minut;1. Ugotuj spaghetti zgodnie z instrukcja na opakowaniu. 2. Podsmaz czosnek i cebule na oliwie. 3. Dodaj mieso mielone i smaz az sie zarumieni. 4. Dodaj sos pomidorowy i gotuj na wolnym ogniu przez 10 minut. 5. Podawaj z ugotowanym spaghetti.
+Pasta Carbonara;spaghetti, jajka, bekon, ser parmezan, smietanka, sol, pieprz;20 minut;1. Ugotuj spaghetti al dente. 2. Podsmaz bekon na patelni. 3. W misce wymieszaj jajka z parmezanem i smietanka. 4. Dodaj ugotowane spaghetti do bekonu, a nastepnie mieszanke jajeczna. 5. Dopraw sola i pieprzem, podawaj od razu.
+Penne Arrabbiata;penne, sos pomidorowy, czosnek, oliwa z oliwek, chili, pietruszka, sol;25 minut;1. Ugotuj penne al dente. 2. Podsmaz czosnek i chili na oliwie. 3. Dodaj sos pomidorowy i gotuj przez 10 minut. 4. Polacz z makaronem, posyp pietruszka i podawaj.
+Lasagne;makaron lasagne, sos beszamelowy, mieso mielone, sos pomidorowy, ser mozzarella, ser parmezan, cebula, czosnek, sol, pieprz;60 minut;1. Przygotuj sos miesny z cebula, czosnkiem i sosem pomidorowym. 2. W naczyniu ukladaj warstwy makaronu, sosu miesnego, beszamelu i sera. 3. Piecz w 180°C przez 30 minut.
+Fettuccine Alfredo;fettuccine, smietanka, maslo, ser parmezan, czosnek, sol, pieprz;20 minut;1. Ugotuj fettuccine al dente. 2. Rozpusc maslo na patelni, dodaj smietanke i parmezan. 3. Dodaj ugotowany makaron, wymieszaj i dopraw sola i pieprzem.
+Spaghetti Aglio e Olio;spaghetti, czosnek, oliwa z oliwek, chili, natka pietruszki, sol;15 minut;1. Ugotuj spaghetti al dente. 2. Podsmaz czosnek i chili na oliwie. 3. Dodaj ugotowany makaron, wymieszaj i posyp natka pietruszki.
+Pasta Primavera;penne, brokuly, cukinia, papryka, marchew, smietanka, czosnek, sol, pieprz;25 minut;1. Ugotuj penne al dente. 2. Podsmaz warzywa na oliwie. 3. Dodaj smietanke, dopraw sola i pieprzem. 4. Polacz z makaronem i podawaj.
+Tortellini z sosem pomidorowym;tortellini, sos pomidorowy, czosnek, cebula, ser mozzarella, bazylia, sol;30 minut;1. Ugotuj tortellini zgodnie z instrukcja na opakowaniu. 2. Przygotuj sos z pomidorow, czosnku i cebuli. 3. Polacz z tortellini, posyp mozzarella i bazylia.
+Penne z lososiem;penne, losos, smietanka, cebula, koperek, sol, pieprz;25 minut;1. Ugotuj penne al dente. 2. Podsmaz lososia i cebule na oliwie. 3. Dodaj smietanke i koperek, dopraw sola i pieprzem. 4. Polacz z makaronem.
+Cannelloni z ricotta i szpinakiem;cannelloni, ricotta, szpinak, sos pomidorowy, ser mozzarella, sol, pieprz;45 minut;1. Przygotuj nadzienie z ricotty i szpinaku. 2. Wypelnij rurki cannelloni nadzieniem. 3. Poloz w naczyniu, zalej sosem pomidorowym i posyp mozzarella. 4. Piecz w 180°C przez 30 minut.
+Spaghetti z krewetkami;spaghetti, krewetki, czosnek, chili, oliwa z oliwek, natka pietruszki, cytryna, sol;20 minut;1. Ugotuj spaghetti al dente. 2. Podsmaz krewetki, czosnek i chili na oliwie. 3. Dodaj ugotowany makaron, skrop sokiem z cytryny, posyp natka pietruszki.
+Pasta z dynia;penne, dynia, smietanka, cebula, czosnek, ser parmezan, sol, pieprz;30 minut;1. Ugotuj penne al dente. 2. Podsmaz dynie, cebule i czosnek. 3. Dodaj smietanke i parmezan, dopraw sola i pieprzem. 4. Polacz z makaronem.
+Mac and Cheese;makaron kolanka, ser cheddar, smietanka, maslo, sol, pieprz;20 minut;1. Ugotuj makaron al dente. 2. Rozpusc maslo, dodaj smietanke i ser cheddar. 3. Polacz z makaronem i podawaj od razu.
+Penne z pesto;penne, pesto z bazylii, ser parmezan, oliwa z oliwek;15 minut;1. Ugotuj penne al dente. 2. Polacz z pesto i oliwa. 3. Posyp parmezanem i podawaj.
+Pasta z grzybami;tagliatelle, grzyby, smietanka, cebula, czosnek, natka pietruszki, sol, pieprz;30 minut;1. Ugotuj tagliatelle al dente. 2. Podsmaz grzyby, cebule i czosnek. 3. Dodaj smietanke i pietruszke, dopraw sola i pieprzem. 4. Polacz z makaronem.
+Spaghetti Marinara;spaghetti, owoce morza, sos pomidorowy, czosnek, chili, oliwa z oliwek, natka pietruszki, sol;35 minut;1. Ugotuj spaghetti al dente. 2. Podsmaz owoce morza z czosnkiem i chili. 3. Dodaj sos pomidorowy, gotuj przez 10 minut. 4. Polacz z makaronem i posyp natka pietruszki.
+Rigatoni z wolowina;rigatoni, wolowina, sos pomidorowy, cebula, czosnek, ser parmezan, bazylia, sol, pieprz;40 minut;1. Ugotuj rigatoni al dente. 2. Podsmaz wolowine z cebula i czosnkiem. 3. Dodaj sos pomidorowy, gotuj przez 20 minut. 4. Polacz z makaronem, posyp parmezanem i bazylia.
+Fusilli z kurczakiem;fusilli, kurczak, brokuly, smietanka, czosnek, ser parmezan, sol, pieprz;30 minut;1. Ugotuj fusilli al dente. 2. Podsmaz kurczaka i czosnek, dodaj brokuly. 3. Dodaj smietanke i parmezan, dopraw sola i pieprzem. 4. Polacz z makaronem.
+Linguine z tunczykiem;linguine, tunczyk, oliwa z oliwek, czosnek, chili, natka pietruszki, sol;20 minut;1. Ugotuj linguine al dente. 2. Podsmaz tunczyka z czosnkiem i chili na oliwie. 3. Dodaj ugotowany makaron i posyp natka pietruszki.
+Pasta Amatriciana;spaghetti, pancetta, sos pomidorowy, cebula, chili, ser pecorino, sol;25 minut;1. Ugotuj spaghetti al dente. 2. Podsmaz pancette i cebule. 3. Dodaj sos pomidorowy i chili, gotuj przez 10 minut. 4. Polacz z makaronem, posyp pecorino i podawaj.
+Omlet klasyczny;jajka, mleko, sol, pieprz, maslo;10 minut;1. Rozbij jajka do miski i wymieszaj z mlekiem, sola i pieprzem. 2. Rozgrzej maslo na patelni. 3. Wlej mieszanke jajeczna i smaz, az zetnie sie na spodzie. 4. Zloz omlet na pol i podawaj.
+Kanapka z jajkiem;chleb, maslo, jajka, szczypiorek, sol, pieprz;15 minut;1. Ugotuj jajka na twardo i pokroj w plasterki. 2. Posmaruj chleb maslem. 3. Poloz plasterki jajek, posyp szczypiorkiem, sola i pieprzem.
+Owsianka z owocami;platki owsiane, mleko, miod, banan, jagody;10 minut;1. Podgrzej mleko i dodaj platki owsiane, gotuj przez 5 minut. 2. Dodaj miod i wymieszaj. 3. Podaj z plasterkami banana i jagodami.
+Placuszki bananowe;banan, jajka, maka, proszek do pieczenia, olej;15 minut;1. Zgniec banan na gladka mase. 2. Dodaj jajka, make i proszek do pieczenia, wymieszaj. 3. Smaz male placuszki na rozgrzanym oleju.
+Tosty francuskie;chleb tostowy, jajka, mleko, maslo, cynamon, cukier puder;15 minut;1. W misce wymieszaj jajka, mleko i cynamon. 2. Zamocz kromki chleba w mieszance. 3. Smaz na masle z obu stron, podawaj z cukrem pudrem.
+Jajecznica z pomidorami;jajka, pomidory, maslo, sol, pieprz;10 minut;1. Pokroj pomidory w kostke. 2. Rozgrzej maslo na patelni i dodaj pomidory. 3. Wlej rozbite jajka i smaz, mieszajac, az jajecznica sie zetnie.
+Smoothie owocowe;banan, truskawki, jogurt naturalny, miod, mleko;5 minut;1. Wloz wszystkie skladniki do blendera. 2. Miksuj az do uzyskania gladkiej konsystencji. 3. Podawaj od razu.
+Tosty z awokado;chleb, awokado, cytryna, sol, pieprz;10 minut;1. Rozgniec awokado i dodaj sok z cytryny, dopraw sola i pieprzem. 2. Posmaruj mieszanka kromki chleba. 3. Podawaj od razu.
+Nalesniki z dzemem;maka, jajka, mleko, cukier, dzem, olej;20 minut;1. Wymieszaj make, jajka, mleko i cukier, az do uzyskania gladkiej masy.
+Chia pudding;mleko, nasiona chia, miod, jagody, banan;10 minut + 4 godziny chlodzenia;1. Wymieszaj mleko z nasionami chia i miodem. 2. Odstaw do lodowki na 4 godziny. 3. Podaj z plasterkami banana i jagodami.
+Tosty z serem i szynka;chleb tostowy, ser zolty, szynka, maslo;10 minut;1. Posmaruj chleb maslem, poloz ser i szynke, przykryj druga kromka. 2. Piecz w opiekaczu lub smaz na patelni.
+Jogurt z granola;jogurt naturalny, granola, miod, owoce;5 minut;1. Do miseczki wlej jogurt. 2. Dodaj granole, owoce i polej miodem.
+Tosty z maslem orzechowym;chleb, maslo orzechowe, banan;5 minut;1. Posmaruj kromki chleba maslem orzechowym. 2. Poloz plasterki banana, podawaj od razu.
+Koktajl szpinakowy;szpinak, banan, jablko, sok pomaranczowy;5 minut;1. Wloz skladniki do blendera. 2. Miksuj az do uzyskania gladkiej konsystencji.
+Kanapka z lososiem;chleb, losos wedzony, serek smietankowy, rukola;10 minut;1. Posmaruj chleb serkiem smietankowym. 2. Poloz lososia i rukole, przykryj druga kromka.
+Frittata z warzywami;jajka, papryka, cukinia, cebula, ser feta, sol, pieprz;20 minut;1. Pokroj warzywa i podsmaz na patelni. 2. Dodaj rozbite jajka i smaz na malym ogniu. 3. Posyp serem feta, podawaj na cieplo.
+Owsianka z czekolada;platki owsiane, mleko, gorzka czekolada, orzechy, miod;10 minut;1. Ugotuj platki owsiane na mleku. 2. Dodaj kostki czekolady, orzechy i polej miodem.
+Tosty z pomidorem i bazylia;chleb, pomidor, bazylia, oliwa z oliwek, czosnek, sol;10 minut;1. Posmaruj kromki chleba oliwa, poloz plasterki pomidora i listek bazylii. 2. Posyp sola i podawaj.
+Muffiny jajeczne;jajka, szynka, ser zolty, papryka, sol, pieprz;25 minut;1. W misce wymieszaj jajka, pokrojona szynke, ser i papryke. 2. Wlej mieszanke do foremek na muffiny. 3. Piecz w 180°C przez 15 minut.
+Zupa pomidorowa;pomidory, bulion warzywny, makaron, smietana, sol, pieprz;40 minut;1. Przygotuj bulion warzywny. 2. Dodaj pomidory i gotuj przez 20 minut. 3. Zmiksuj na gladka mase i dopraw. 4. Podaj z makaronem i smietana.
+Kotlet schabowy z ziemniakami;schab, bulka tarta, jajka, maka, ziemniaki, maslo, sol, pieprz;50 minut;1. Schab rozbij na cienkie kotlety. 2. Panieruj w mace, jajku i bulce tartej. 3. Smaz na masle na zloty kolor. 4. Podaj z ugotowanymi ziemniakami.
+Placki ziemniaczane z sosem grzybowym;ziemniaki, cebula, maka, jajka, grzyby, smietana, sol, pieprz;45 minut;1. Zetrzyj ziemniaki i cebule, dodaj make i jajka. 2. Smaz placki na patelni. 3. Przygotuj sos grzybowy z podsmazonych grzybow i smietany.
+Kurczak tikka masala;kurczak, jogurt, przyprawy, cebula, pomidory, smietanka, ryz;60 minut;1. Zamarynuj kurczaka w jogurcie i przyprawach. 2. Podsmaz cebule, dodaj kurczaka i pomidory. 3. Dodaj smietanke i gotuj przez 20 minut. 4. Podaj z ryzem.
+Pieczone warzywa z feta;cukinia, papryka, baklazan, ziemniaki, ser feta, oliwa z oliwek, sol, pieprz;50 minut;1. Pokroj warzywa, wymieszaj z oliwa i przyprawami. 2. Piecz w 200°C przez 30 minut. 3. Posyp serem feta i podaj.
+Zupa krem z brokulow;brokuly, ziemniaki, bulion warzywny, smietana, sol, pieprz;35 minut;1. Gotuj brokuly i ziemniaki w bulionie. 2. Zmiksuj na gladka mase, dodaj smietane i dopraw.
+Risotto z kurczakiem;ryz arborio, kurczak, cebula, czosnek, bulion, parmezan, maslo;45 minut;1. Podsmaz cebule i kurczaka. 2. Dodaj ryz i bulion stopniowo, mieszajac. 3. Dodaj parmezan i maslo przed podaniem.
+Tarta z warzywami i serem;ciasto francuskie, cukinia, pomidory, papryka, ser mozzarella, jajka, smietana;50 minut;1. Rozloz ciasto francuskie na formie. 2. Polo¿ warzywa i ser. 3. Zalej mieszanka jajek i smietany. 4. Piecz w 180°C przez 30 minut.
+Golabki z ryzem i miesem;kapusta, mieso mielone, ryz, cebula, sos pomidorowy, sol, pieprz;90 minut;1. Ugotuj liscie kapusty. 2. Przygotuj farsz z ryzu, miesa i cebuli. 3. Zawijaj w liscie, gotuj w sosie pomidorowym.
+Smazony dorsz z frytkami;dorsz, bulka tarta, jajka, ziemniaki, olej, sol, pieprz;40 minut;1. Ziemniaki pokroj na frytki i smaz na oleju. 2. Dorsza panieruj w jajku i bulce tartej, smaz na zloty kolor.
+Chili con carne;mieso mielone, czerwona fasola, pomidory, cebula, czosnek, papryka, chili, ryz, sol;60 minut;1. Podsmaz mieso z cebula i czosnkiem. 2. Dodaj papryke, pomidory i fasole. 3. Dopraw chili i gotuj 30 minut. 4. Podaj z ryzem.
+Smazony ryz z kurczakiem;ryz, kurczak, jajka, warzywa, soja, czosnek, olej;30 minut;1. Ugotuj ryz. 2. Podsmaz kurczaka i warzywa. 3. Dodaj ryz, jajka i sos sojowy, mieszaj i smaz.
+Zupa minestrone;fasola, makaron, warzywa, bulion, cebula, czosnek, pomidory, ziola;50 minut;1. Podsmaz cebule i czosnek. 2. Dodaj warzywa, bulion i gotuj 30 minut. 3. Dodaj makaron i dopraw.
+Kopytka z sosem grzybowym;ziemniaki, maka, jajka, grzyby, smietana, sol, pieprz;50 minut;1. Ziemniaki ugotuj i zgniec. 2. Dodaj make i jajka, ugniataj. 3. Tworz kluski i gotuj w wodzie. 4. Przygotuj sos grzybowy i podaj.
+Kurczak w sosie smietanowym;kurczak, smietanka, czosnek, cebula, ziola, ziemniaki;40 minut;1. Podsmaz kurczaka. 2. Dodaj cebule, czosnek i smietanke. 3. Dopraw ziolami i gotuj 15 minut. 4. Podaj z ziemniakami.
+Lasagne z warzywami;makaron lasagne, cukinia, papryka, pieczarki, ser, sos beszamelowy;60 minut;1. Polo¿ warstwy makaronu, warzyw i sosu beszamelowego. 2. Posyp serem i piecz 40 minut.
+Zrazy wolowe z kasza;wolowina, kasza, ogorek kiszony, cebula, musztarda, sos pieczeniowy;90 minut;1. Wolowine rozbij, posmaruj musztarda, dodaj ogorek i cebule. 2. Zawijaj i dus w sosie. 3. Podaj z kasza.
+Salatka z kurczakiem;kurczak, salata, pomidory, ogorek, papryka, sos czosnkowy;20 minut;1. Kurczaka pokroj i podsmaz. 2. Mieszaj skladniki, zalej sosem.
+Stek z puree ziemniaczanym;stek, ziemniaki, maslo, sol, pieprz;35 minut;1. Smaz stek na patelni. 2. Ziemniaki ugotuj i rozgniec z maslem.
+Gulasz wieprzowy;wieprzowina, cebula, czosnek, papryka, ziemniaki, marchewka, bulion, sol, pieprz;90 minut;1. Podsmaz mieso i cebule. 2. Dodaj warzywa i bulion. 3. Dus na wolnym ogniu 60 minut.
+Ryba zapiekana z warzywami;ryba, brokuly, marchew, cytryna, maslo, ziemniaki;50 minut;1. Warzywa polo¿ w naczyniu, dodaj rybe, posyp maslem. 2. Piecz 30 minut.
+Curry z ciecierzyca;ciecierzyca, kokosowe mleko, cebula, czosnek, przyprawy, ryz;40 minut;1. Podsmaz cebule i czosnek. 2. Dodaj ciecierzyce i mleko kokosowe. 3. Dopraw i gotuj 20 minut. 4. Podaj z ryzem.
+Kotlety mielone z buraczkami;mieso mielone, cebula, bulka tarta, jajka, buraki, ziemniaki;50 minut;1. Mieso wymieszaj z cebula, jajkiem i bulka. 2. Formuj kotlety, smaz na patelni. 3. Podaj z buraczkami i ziemniakami.
+Zapiekanka ziemniaczana z serem;ziemniaki, ser, smietana, czosnek, maslo;60 minut;1. Ziemniaki pokroj w plastry. 2. Ukladaj warstwy ziemniakow i sera. 3. Polej smietana i zapiekaj 40 minut.
+Pizza domowa;ciasto, pomidory, ser, salami, papryka;50 minut;1. Przygotuj ciasto, dodaj skladniki, zapiekaj 20 minut.
+Tortilla z kurczakiem;placki tortilli,kurczak,warzywa,sos czosnkowy;30 minut;1.Kurczaka smaz,dodaj do plackow z warzywami i sosem.
+Flaki wolowe;flaki wolowe,warzywa,bulion,przyprawy;90 minut;1.Flak ugotuj z warzywami,dopraw.
+Nalesniki z kurczakiem i szpinakiem;nalesniki,kurczak,szpinak,smietana,ser;45 minut;1.Podsmaz kurczaka i szpinak,nadziewaj nalesniki,zapiekaj z serem.
+Grillowany kurczak z warzywami;kurczak,papryka,cukinia,cebula,oliwa z oliwek,czosnek,sol,pieprz;40 minut;1.Kurczaka zamarynuj w oliwie z czosnkiem.2.Pokroj warzywa i poloz na grillu.3.Smaz kurczaka do miekkosci,podaj z warzywami.
+Makaron z pesto i krewetkami;spaghetti,pesto,krewetki,czosnek,oliwa z oliwek,cytryna;30 minut;1.Ugotuj makaron.2.Podsmaz krewetki z czosnkiem na oliwie.3.Wymieszaj makaron z pesto i krewetkami,podawaj z cytryna.
+Tatar z lososia;losos,sok z cytryny,szczypiorek,cebula,avocado,oliwa z oliwek;15 minut;1.Lososa pokroj w drobna kostke.2.Wymieszaj z sokiem z cytryny,cebula i oliwa.3.Podaj z avocado i szczypiorkiem.
+Salatka grecka;salata,pomidory,ogorki,ser feta,oliwki,cebula,czerwona,papryka,oliwa z oliwek;20 minut;1.Pokroj warzywa i wymieszaj z oliwa.2.Dodaj ser feta i oliwki.
+Pieczone ziemniaki z sosem tzatziki;ziemniaki,oliwa z oliwek,sol,tzatziki;jogurt grecki,czosnek,ogorek,cytryna,sol,pieprz;50 minut;1.Ziemniaki pokroj w czastki i piecz w piekarniku.2.Przygotuj sos tzatziki,mieszajac jogurt z czosnkiem i ogorkiem.3.Podaj razem.
+Risotto z krewetkami i szpinakiem;ryz arborio,krewetki,szpinak,bulion,czosnek,oliwa z oliwek,maslo,parmezan;40 minut;1.Podsmaz krewetki z czosnkiem,dodaj ryz i bulion.2.Pod koniec gotowania dodaj szpinak i maslo.3.Posyp parmezanem.
+Pieczona dynia z serem halloumi;dynia,ser halloumi,oliwa z oliwek,ziola prowansalskie;40 minut;1.Dynie pokroj w plastry,posmaruj oliwa i posyp ziolami.2.Piecz w 200°C.3.Podaj z grillowanym halloumi.
+Kurczak w sosie miodowo-musztardowym;kurczak,miod,musztarda,smietanka,ziemniaki,brokuly;50 minut;1.Podsmaz kurczaka,dodaj sos z miodu,musztardy i smietanki.2.Podaj z ziemniakami i brokulami.
+Krewetki w ciescie piwnym;krewetki,piwo,maka,jajko,olej,sol,cytryna;30 minut;1.Przygotuj ciasto z piwa i maki.2.Mocz krewetki w ciescie i smaz na glebokim oleju.3.Podaj z cytryna.
+Zapiekanka z kurczakiem i brokulami;kurczak,brokuly,smietana,ser mozzarella,makaron;50 minut;1.Ugotuj makaron i brokuly.2.Podsmaz kurczaka,zapiekaj z brokulami,makaronem i smietana.
+Zupa ramen;bulion drobiowy,noodles,kurczak,jajko,sos sojowy,czosnek,imbir,pak choi;60 minut;1.Przygotuj bulion z imbirem i czosnkiem.2.Ugotuj noodles,kurczaka i jajko.3.Polacz skladniki w misce,zalej bulionem.
+Kanapka z tunczykiem;chleb pelnoziarnisty,tunczyk,salata,pomidory,jogurt naturalny;15 minut;1.Polacz tunczyka z jogurtem.2.Nakladaj na chleb z salata i pomidorami.
+Placki z cukinii;cukinia,jajka,maka,czosnek,olej,sol,pieprz;25 minut;1.Zetrzyj cukinie,odcisnij wode.2.Wymieszaj z jajkiem i maka.3.Smaz placki na patelni.
+Stek z warzywami na parze;stek,brokuly,marchewka,fasolka szparagowa,maslo,sol,pieprz;40 minut;1.Ugotuj warzywa na parze.2.Smaz stek na patelni.3.Podaj razem z warzywami i maslem.
+Kofty z jagnieciny;jagniecina,cebula,czosnek,przyprawy,jogurt,cytryna;40 minut;1.Przygotuj kofty z miesa i przypraw,smaz na patelni.2.Podaj z jogurtem i cytryna.
+Zapiekane awokado z jajkiem;awokado,jajka,ser zolty,sol,pieprz;20 minut;1.Przekroj awokado na pol,wbij jajko do dolka.2.Posyp serem i piecz w piekarniku.
+Pizza margherita;ciasto,pomidory,ser mozzarella,bazylia,oliwa z oliwek;30 minut;1.Posmaruj ciasto sosem pomidorowym,dodaj ser i bazylie.2.Piecz 15 minut w 220°C.
+Kuskus z warzywami;kuskus,papryka,cukinia,marchewka,ciecierzyca,oliwa z oliwek,cytryna;25 minut;1.Przygotuj kuskus zgodnie z instrukcja.2.Warzywa podsmaz na oliwie,polacz z kuskusem.3.Podaj z ciecierzyca i cytryna.
+Nalesniki z lososiem;nalesniki,losos wedzony,serek smietankowy,koperek,cytryna;20 minut;1.Posmaruj nalesniki serkiem,poloz lososia,posyp koperkiem.2.Zwin i podaj z cytryna.
+Frytki;ziemniaki,olej,sol;30 minut;1.Obierz ziemniaki i pokroj w paski.2.Zanurz w zimnej wodzie na 10 minut.3.Wysusz i smaz w goracym oleju do zarumienienia.4.Posol i podawaj.
+Placki ziemniaczane;ziemniaki,jajka,maka,cebula,sol,pieprz,olej;30 minut;1.Zetrzyj ziemniaki i cebule.2.Wymieszaj z jajkiem i maka.3.Smaz placki na rozgrzanym oleju.
+Ziemniaki pieczone;ziemniaki,oliwa z oliwek,rozmaryn,czosnek,sol;40 minut;1.Obierz ziemniaki i pokroj w czastki.2.Wymieszaj z oliwa,rozmarynem i czosnkiem.3.Piecz w 200°C przez 30 minut.
+Zapiekanka ziemniaczana;ziemniaki,smietana,ser zolty,cebula,sol,pieprz;50 minut;1.Obierz ziemniaki i pokroj w plastry.2.Ukladaj warstwy ziemniakow,cebuli i sera.3.Zalej smietana i piecz w 180°C przez 40 minut.
+Kopytka;ziemniaki,maka,jajka,sol;30 minut;1.Ugotuj ziemniaki i zgniec na pure.2.Wymieszaj z maka i jajkiem.3.Uformuj waleczki, pokroj na kawalki i gotuj w osolonej wodzie.
+Puree ziemniaczane;ziemniaki,maslo,mleko,sol;25 minut;1.Ugotuj ziemniaki i zgniec.2.Dodaj maslo i mleko,mieszaj az do gladkiej konsystencji.
+Ziemniaki faszerowane;ziemniaki,ser zolty,boczek,smetana,pietruszka;50 minut;1.Piecz ziemniaki w 200°C przez 40 minut.2.Przekroj na pol i wyjmij miazsz.3.Wymieszaj z serem i boczkiem, nadziej ziemniaki.
+Ziemniaki smazone z cebula;ziemniaki,cebula,olej,sol;25 minut;1.Obierz i pokroj ziemniaki w plasterki.2.Smaz z cebula na oleju do zarumienienia.
+Kartoflanka;ziemniaki,marchew,seler,por,bulion,sol,pieprz;40 minut;1.Obierz warzywa i pokroj w kostke.2.Gotuj w bulionie przez 30 minut.
+Pyzy ziemniaczane;ziemniaki,maka,jajka,sol;50 minut;1.Obierz i zetrzyj ziemniaki.2.Wymieszaj z maka i jajkami.3.Uformuj kulki i gotuj w osolonej wodzie.
+Chleb pszenny;maka drozdzowa,woda,drozdze,sol;180 minut;1.Wymieszaj skladniki i odstaw do wyrosniecia.2.Uformuj bochenek i piecz w 200°C przez 40 minut
+Bagietki;maka,woda,drozdze,sol;120 minut;1.Zrob ciasto z maki,wody i drozdzy.2.Uformuj bagietki i piecz w 220°C przez 20 minut.
+Drozdzowka z serem;maka,woda,drozdze,ser zolty,jajko;90 minut;1.Przygotuj ciasto drozdzowe.2.Ukladaj ser na ciescie i piecz w 180°C przez 25 minut.
+Ciasto czekoladowe;maka,cukier,kakao,jajka,maslo,proszek do pieczenia;60 minut;1.Wymieszaj skladniki i piecz w 180°C przez 40 minut.
+Muffiny;jajka,maka,mleko,cukier,proszek do pieczenia;30 minut;1.Przygotuj ciasto i wlej do foremek.2.Piecz w 180°C przez 20 minut.
+Szarlotka;jablka,maka,cukier,maslo;70 minut;1.Przygotuj ciasto i nadzienie jablkowe.2.Piecz w 180°C przez 50 minut.
+Chalka;maka,drozdze,woda,cukier,sol;120 minut;1.Uformuj chalke i piecz w 190°C przez 30 minut.
+Tarta z owocami;maka,maslo,cukier,smietana,owoce;50 minut;1.Przygotuj kruche ciasto i nadzienie.2.Piecz w 180°C przez 30 minut.
+Buleczki drozdzowe;maka,woda,drozdze,cukier,sol;90 minut;1.Uformuj buleczki i piecz w 180°C przez 25 minut.
+Piernik;maka,cukier,miod,przyprawy korzenne,maslo;60 minut;1.Przygotuj ciasto piernikowe i piecz w 180°C przez 45 minut.
+Ciastka owsiane;platki owsiane,cukier,maslo,jajka;30 minut;1.Wymieszaj skladniki i piecz w 180°C przez 15 minut.
+Ptysie;maka,woda,jajka,maslo;50 minut;1.Przygotuj ciasto parzone.2.Formuj ptysie i piecz w 200°C przez 20 minut.
+Tarta cytrynowa;maka,maslo,jajka,cukier,cytryny;50 minut;1.Przygotuj kruche ciasto i nadzienie cytrynowe.2.Piecz w 180°C przez 25 minut.
+Paszteciki z kapusta i grzybami;maka,woda,drozdze,kapusta,grzyby;90 minut;1.Uformuj paszteciki i piecz w 180°C przez 25 minut.
+Makowiec;maka,drozdze,mleko,cukier,maku;120 minut;1.Przygotuj ciasto drozdzowe i mase makowa.2.Piecz w 180°C przez 40 minut.
+Lody waniliowe;mleko,smietanka,cukier,laska wanilii;30 minut+chlodzenie;1.Zmieszaj skladniki i zamroz w maszynce do lodow.
+Panna cotta;smietanka,zelatyna,cukier,wanilia;20 minut+chlodzenie;1.Zmieszaj smietanke z cukrem i wanilia.2.Dodaj zelatyne i chlodz.
+Tiramisu;mascarpone,jajka,cukier,kawa,herbatniki;30 minut+chlodzenie;1.Ukladaj warstwy kremu i herbatnikow,nasacz kawa.
+Galaretka;galaretka w proszku,woda,owoce;10 minut+chlodzenie;1.Rozpusc galaretke w wodzie,dodaj owoce i chlodz.
+Sernik na zimno;ser twarogowy,zelatyna,cukier,smietana,galaretka;30 minut+chlodzenie;1.Wymieszaj skladniki i schlodz.
+Muffinki czekoladowe;jajka,maka,kakao,cukier,proszek do pieczenia;30 minut;1.Piecz w 180°C przez 20 minut.
+Brownie;czekolada,maslo,jajka,cukier,maka;45 minut;1.Rozpusc czekolade,wymieszaj ze skladnikami i piecz.
+Creme brulee;smietanka,wanilia,jajka,cukier;40 minut;1.Zmieszaj skladniki,piecz w kapieli wodnej i posyp cukrem do skarmelizowania.
+Szarlotka na kruchym ciescie;jablka,maka,maslo,cukier;70 minut;1.Piecz w 180°C przez 50 minut.
+Tartaletki z owocami;maka,maslo,jajka,owoce;50 minut;1.Przygotuj kruche ciasto i piecz w foremkach.
+Kisiel domowy;owoce,cukier,woda,maka ziemniaczana;15 minut;1.Gotuj owoce z cukrem,dodaj rozwiazana make.
+Makaronik;cukier puder,migdaly zmielone,bialka;60 minut;1.Ubij piane z bialek i piecz.
+Deser truskawkowy;truskawki,smietanka,cukier;10 minut;1.Ubij smietanke z cukrem i podaj z truskawkami.
+Rogaliki drozdzowe;maka,drozdze,cukier,mleko;90 minut;1.Uformuj rogaliki i piecz w 180°C przez 25 minut.
+Parfait;cukier,jogurt,smietanka,owoce;20 minut+chlodzenie;1.Wymieszaj skladniki i zamroz w foremkach.
+Beza;cukier,bialka,cukier puder;90 minut;1.Ubij piane i piecz w 100°C przez 70 minut.
+Pavlova;cukier,bialka,smietanka,owoce;120 minut;1.Piecz beze i udekoruj smietanka z owocami.
+Ciasto marchewkowe;marchewka,maka,jajka,cukier,proszek do pieczenia;50 minut;1.Piecz w 180°C przez 40 minut.
+Mus czekoladowy;czekolada,smietanka,cukier,jajka;15 minut+chlodzenie;1.Rozpusc czekolade i wymieszaj ze skladnikami,chlodz.
+Trufle;czekolada,smietanka,cukier;30 minut+chlodzenie;1.Wymieszaj,formuj kulki i chlodz.Cezar;sa³ata rzymska,kurczak,parmezan,grzanki,majonez,czosnek,cytryna,oliwa;20 minut;1.Umyj i porwij sa³atê.2.Usma¿ kurczaka i pokrój w paski.3.Przygotuj sos z majonezu,czosnku,soku z cytryny i oliwy.4.Wymieszaj sk³adniki i posyp parmezanem oraz grzankami.
+Cezar;salata rzymska,kurczak,parmezan,grzanki,majonez,czosnek,cytryna,oliwa;20 minut;1.Umyj i porwij salate.2.Usmaz kurczaka i pokroj w paski.3.Przygotuj sos z majonezu,czosnku,soku z cytryny i oliwy.4.Wymieszaj skladniki i posyp parmezanem oraz grzankami.
+Grecki;salata,pomidory,ogorek,papryka,feta,oliwki,oliwa,oregano;15 minut;1.Pokroj warzywa i fete w kostke.2.Wymieszaj z oliwkami,oliwa i oregano.
+Waldorf;seler naciowy,jablko,orzechy wloskie,rodzynki,majonez;10 minut;1.Pokroj seler i jablko w kostke.2.Wymieszaj z orzechami,rodzynkami i majonezem.
+Caprese;pomidory,mozzarella,bazylia,oliwa,sol,pieprz;10 minut;1.Pokroj pomidory i mozzarelle w plastry.2.Uloz na przemian,dodaj bazylie i skrop oliwa.
+Salatka z tunczykiem;salata,tunczyk z puszki,kukurydza,czerwona cebula,jajko na twardo,majonez;15 minut;1.Wymieszaj skladniki,dodaj majonez.
+Coleslaw;kapusta biala,marchewka,majonez,ocet winny,cukier,sol,pieprz;15 minut;1.Poszatkuj kapuste i zetrzyj marchew.2.Wymieszaj z majonezem i przyprawami.
+Salatka jarzynowa;marchewka,ziemniaki,seler,pietruszka,groszek konserwowy,majonez,sol;30 minut;1.Ugotuj warzywa i pokroj w kostke.2.Wymieszaj z groszkiem i majonezem.
+Salatka owocowa;jablko,gruszka,pomarancza,banan,winogrona,miod;10 minut;1.Pokroj owoce i wymieszaj z miodem.
+Salatka z kurczakiem i ananasem;kurczak,ananas z puszki,ryz,majonez,sol,pieprz;25 minut;1.Ugotuj ryz,usmaz kurczaka.2.Pokroj ananas i wymieszaj wszystko z majonezem.
+Salatka brokulowa;brokuly,jajka,czosnek,majonez;20 minut;1.Ugotuj brokuly i jajka na twardo.2.Pokroj jajka,wymieszaj z brokulami i majonezem.
+Salatka makaronowa;makaron kokardki,pomidory,ogorek,kukurydza,papryka,majonez;20 minut;1.Ugotuj makaron i wymieszaj z warzywami oraz majonezem.
+Salatka z awokado i lososiem;awokado,losos wedzony,salata,ogorek,oliwa;10 minut;1.Pokroj awokado i ogorek,polacz z salata i lososiem.
+Salatka z fasola;czerwona fasola z puszki,kukurydza,cebula,papryka,majonez;10 minut;1.Wymieszaj wszystkie skladniki i dodaj majonez.
+Salatka z rukola i gruszka;rukola,gruszka,orzechy wloskie,ser plesniowy,oliwa;10 minut;1.Wymieszaj skladniki,skrop oliwa.
+Salatka nicejska;salata,tunczyk,jajka,pomidory,oliwki,fasolka szparagowa;20 minut;1.Ugotuj fasolke i jajka.2.Wymieszaj z reszta skladnikow.
+Salatka z quinoa;quinoa,ogorek,papryka,pomidory,natka pietruszki,oliwa;20 minut;1.Ugotuj quinoa i wymieszaj z warzywami oraz oliwa.
+Salatka z tortellini;tortellini,pomidory,kukurydza,szynka,ser zolty,majonez;20 minut;1.Ugotuj tortellini,wymieszaj z reszta skladnikow.
+Salatka z burakami i feta;buraki,ser feta,orzechy wloskie,rukola,oliwa;20 minut;1.Ugotuj buraki i pokroj w plastry,wymieszaj z pozostalami skladnikami.
+Salatka z grillowanymi warzywami;cukinia,papryka,baklazan,rukola,ser kozi,oliwa;30 minut;1.Grilluj warzywa i wymieszaj z rukola oraz serem.
+Salatka meksykanska;czerwona fasola,kukurydza,papryka,cebula,nachos,sos salsa;15 minut;1.Wymieszaj skladniki,dodaj sos salsa i posyp nachos.
+Kanapka z szynka i serem;chleb,szynka,ser zolty,maslo;10 minut;1.Posmaruj chleb maslem.2.Dodaj plaster szynki i sera,przykryj druga kromka.
+Kanapka z awokado;chleb,awokado,cytryna,sol;10 minut;1.Rozgniec awokado,dodaj sok z cytryny i sol.2.Posmaruj mieszanka kromki chleba.
+Kanapka z lososiem;chleb,losos wedzony,serek smietankowy,rukola;10 minut;1.Posmaruj chleb serkiem.2.Dodaj lososia i rukole.
+Tost z jajkiem;chleb,jajko,sol,pieprz,maslo;15 minut;1.Usmaz jajko sadzone.2.Posmaruj chleb maslem,dodaj jajko i przyprawy.
+Kanapka z kurczakiem;chleb,kurczak,sos czosnkowy,salata,pomidor;15 minut;1.Podsmaz kurczaka,dodaj na chleb z warzywami i sosem.
+Bagietka z tunczykiem;bagietka,tunczyk z puszki,ogorek,salata;10 minut;1.Pokroj bagietke,dodaj tunczyka i warzywa.
+Tosty z pomidorem i bazylia;chleb,pomidor,bazylia,oliwa,czosnek;10 minut;1.Posmaruj chleb oliwa,dodaj plaster pomidora i liscie bazylii.
+Kanapka z pasta jajeczna;chleb,jajka,majonez,szczypiorek;10 minut;1.Ugotuj jajka na twardo,zmieszaj z majonezem i szczypiorkiem.
+Kanapka z mozzarella;pita,mozzarella,pomidory,oliwa,bazylia;10 minut;1.Wloz skladniki do pity i podgrzej w opiekaczu.
+Kanapka z hummusem;chleb,hummus,ogorek,papryka;10 minut;1.Posmaruj chleb hummusem i dodaj warzywa.
+Zupa pomidorowa z ryzem;bulion warzywny,pomidory,ryz,smietana,natka pietruszki,sol,pieprz;30 minut;1.Ugotuj bulion warzywny.2.Dodaj pokrojone pomidory i gotuj przez 10 minut.3.Wsyp ryz i gotuj do miekkosci.4.Dodaj smietane i natke pietruszki,dopraw sola i pieprzem.
+Zupa pieczarkowa;pieczarki,cebula,smietanka,maslo,bulion warzywny,natka pietruszki,sol,pieprz;25 minut;1.Podsmaz pieczarki i cebule na masle.2.Dodaj bulion i gotuj przez 15 minut.3.Dodaj smietanke i dopraw sola oraz pieprzem.4.Posyp natka pietruszki.
+Zupa jarzynowa;marchew,ziemniaki,seler,groszek,bulion warzywny,smietana,sol,pieprz;35 minut;1.Ugotuj bulion warzywny.2.Dodaj pokrojone warzywa i gotuj az beda miekkie.3.Dodaj smietane i dopraw sola i pieprzem.
+Zupa grochowa;groch,marchew,ziemniaki,boczek,cebula,bulion miesny,sol,pieprz;50 minut;1.Namocz groch na kilka godzin.2.Ugotuj groch w bulionie.3.Dodaj pokrojone warzywa i boczek.4.Gotuj az wszystko zmiêknie.
+Chlodnik z buraczkow;buraki,ogorek,jogurt,koperek,czosnek,sol,pieprz;20 minut;1.Ugotuj buraki,a nastepnie zetrzyj na tarce.2.Pokroj ogorka i wymieszaj z burakami.3.Dodaj jogurt,koperek i czosnek,dopraw sola i pieprzem.
+Zupa szczawiowa;szczaw,ziemniaki,marchew,smietana,bulion warzywny,jajka,sol,pieprz;40 minut;1.Ugotuj bulion warzywny.2.Dodaj pokrojone ziemniaki i marchew,gotuj do miekkosci.3.Dodaj szczaw,smietane i dopraw.4.Podawaj z jajkiem na twardo.
+Zupa ogorkowa;ogorki kiszone,ziemniaki,marchew,bulion,smietana,sol,pieprz;35 minut;1.Ugotuj ziemniaki i marchew w bulionie.2.Dodaj starte ogorki kiszone.3.Wlej smietane i dopraw sola oraz pieprzem.
+Zupa cebulowa;cebula,maslo,bulion,ser zolty,grzanki,sol,pieprz;30 minut;1.Podsmaz cebule na masle az sie zrumieni.2.Dodaj bulion i gotuj przez 20 minut.3.Podawaj z grzankami i startym serem.
+Krem z brokulow;brokuly,ziemniaki,cebula,bulion warzywny,smietanka,sol,pieprz;25 minut;1.Ugotuj brokuly i ziemniaki w bulionie.2.Zmiksuj na gladki krem.3.Dodaj smietanke i dopraw.
+Zupa krem z dyni;dynia,marchew,cebula,smietana,bulion warzywny,sol,pieprz;30 minut;1.Podsmaz cebule i marchew.2.Dodaj dynie i bulion,gotuj do miekkosci.3.Zmiksuj na krem,dodaj smietane i dopraw.Barszcz czerwony;buraki, marchew, pietruszka, cebula, bulion, sol, pieprz;50 minut;1. Ugotuj warzywa w bulionie. 2. Odcedz wywar, dodaj starte buraki. 3. Dopraw sola i pieprzem, podawaj z uszkami.
+Barszcz czerwony;buraki,marchew,pietruszka,cebula,bulion,sol,pieprz;50 minut;1.Ugotuj warzywa w bulionie.2.Odcedz wywar,dodaj starte buraki.3.Dopraw sola i pieprzem,podawaj z uszkami.
+Zupa fasolowa;fasola,marchew,ziemniaki,boczek,bulion,sol,pieprz;1 godzina;1.Namocz fasole na noc.2.Ugotuj fasole z warzywami i boczkiem.3.Dopraw i podawaj.
+Zupa miso;miso,tofu,wakame,cebula,woda,sos sojowy;20 minut;1.Podgrzej wode,dodaj miso.2.Dodaj tofu,wakame i cebule.3.Dopraw sosem sojowym,podawaj ciepla.
+Zupa pomidorowa z makaronem;bulion,pomidory,makaron,smietanka,sol,pieprz;25 minut;1.Ugotuj bulion z pomidorami.2.Dodaj makaron,gotuj do miekkosci.3.Dodaj smietanke i dopraw.
+Krem z kalafiora;kalafior,ziemniaki,cebula,bulion,smietanka,sol,pieprz;30 minut;1.Ugotuj kalafior i ziemniaki w bulionie.2.Zmiksuj na gladki krem,dodaj smietanke.
+Zupa rybna;ryby,marchew,cebula,seler,bulion,przyprawy;40 minut;1.Ugotuj warzywa w bulionie.2.Dodaj kawalki ryby,gotuj 10 minut.3.Dopraw i podawaj.
+Zupa z soczewicy;soczewica,marchew,cebula,pomidory,bulion,przyprawy;35 minut;1.Podsmaz warzywa,dodaj soczewice i bulion.2.Gotuj do miekkosci,dopraw przyprawami.
+Tom Kha Gai;kurczak,mleczko kokosowe,trawa cytrynowa,chili,imbir,limonka;30 minut;1.Podgrzej mleczko kokosowe,dodaj trawa cytrynowa i przyprawy.2.Dodaj kawalki kurczaka,gotuj do miekkosci.
+Zupa kalafiorowa;kalafior,marchew,ziemniaki,bulion,smietana,sol,pieprz;35 minut;1.Ugotuj kalafior i warzywa w bulionie.2.Dodaj smietane i dopraw.
+Zupa grzybowa;grzyby,cebula,bulion,smietana,przyprawy;40 minut;1.Podsmaz grzyby z cebula.2.Dodaj bulion,gotuj przez 30 minut.3.Dodaj smietane i przyprawy.
+Kurczak po tajsku;kurczak,mleko kokosowe,curry,papryka,marchew,cebula,sol;30 minut;1.Podsmaz kurczaka na oleju.2.Dodaj pokrojone warzywa.3.Wlej mleko kokosowe i dopraw curry.4.Gotuj na wolnym ogniu przez 20 minut.
+Gulasz wieprzowy;wieprzowina,cebula,marchew,ziemniaki,pomidory,papryka,sol,pieprz;40 minut;1.Podsmaz wieprzowine na patelni.2.Dodaj warzywa i dus przez 20 minut.3.Dopraw sola i pieprzem.
+Ryba w ciescie;filet rybny,maka,jajko,mleko,sol,pieprz;20 minut;1.Przygotuj ciasto z maki,jajka i mleka.2.Zanurz rybe w ciescie i sma¿ na rozgrzanym oleju.
+Kurczak w sosie smietanowym;kurczak,smietanka,cebula,czosnek,pietruszka,sol,pieprz;25 minut;1.Podsmaz kurczaka z cebula i czosnkiem.2.Dodaj smietanke i gotuj na wolnym ogniu.3.Posyp pietruszka.
+Pieczen wolowa;wolowina,czosnek,rozmaryn,oliwa,sol,pieprz;120 minut;1.Natrzyj wolowine przyprawami i czosnkiem.2.Piecz w piekarniku w 180°C przez 2 godziny.
+Kotlety mielone;mieso mielone,cebula,jajko,bulka tarta,sol,pieprz;30 minut;1.Wymieszaj mieso z cebula,jajkiem i bulka tarta.2.Uformuj kotlety i sma¿ na patelni.
+Zapiekanka ziemniaczana;ziemniaki,ser zolty,smietanka,czosnek,cebula,sol,pieprz;50 minut;1.Pokroj ziemniaki w plastry.2.Uloz warstwy ziemniakow,sera i smietanki.3.Piecz w 180°C przez 50 minut.
+Pierogi ruskie;ciasto pierogowe,ziemniaki,ser bialy,cebula,sol,pieprz;60 minut;1.Ugotuj ziemniaki i wymieszaj z serem i cebula.2.Nadziewaj ciasto masa i gotuj pierogi.
+Kasza z warzywami;kasza,papryka,cukinia,marchew,cebula,sol,pieprz;30 minut;1.Podsmaz warzywa,a nastepnie dodaj ugotowana kasze.2.Dopraw sola i pieprzem.
+Kurczak z warzywami;kurczak,papryka,cukinia,cebula,marchew,oliwa,sol,pieprz;40 minut;1.Pokroj kurczaka i warzywa.2.Podsmaz wszystko na patelni,dopraw sola i pieprzem.
+Roladki z kurczaka;kurczak,ser zolty,szynka,sol,pieprz,bulka tarta,jajko;45 minut;1.Nadziewaj filety sera i szynka.2.Obtocz w jajku i bulce tartej.3.Smaz na patelni.
+Pieczen z indyka;indyk,maslo,czosnek,rozmaryn,sol,pieprz;90 minut;1.Posmaruj indyka maslem i przyprawami.2.Piecz w piekarniku w 180°C przez 90 minut.
+Kaczka z jablkami;kaczka,jablka,majeranek,sol,pieprz;120 minut;1.Nadziewaj kaczke jablkami.2.Posyp majerankiem i pieprzem.3.Piecz w 200°C przez 2 godziny.
+Makaron z kurczakiem i szpinakiem;makaron,kurczak,szpinak,smietanka,czosnek,sol,pieprz;30 minut;1.Ugotuj makaron.2.Podsmaz kurczaka,dodaj szpinak i smietanke.3.Polacz z makaronem.
+Placki ziemniaczane;ziemniaki,cebula,jajko,maka,sol,pieprz;30 minut;1.Zetrzyj ziemniaki i cebule.2.Wymieszaj z maka i jajkiem.3.Smaz placki na patelni.
+Kotlety schabowe;schab,maka,jajko,bulka tarta,sol,pieprz;40 minut;1.Rozbij schab,dopraw sola i pieprzem.2.Obtocz w mace,jajku i bulce tartej.3.Smaz na rozgrzanym oleju.
+Duszone warzywa;cukinia,papryka,marchew,cebula,oliwa,sol,pieprz;25 minut;1.Podsmaz warzywa na oliwie.2.Gotuj na wolnym ogniu przez 20 minut.
+Pieczone ziemniaki;ziemniaki,oliwa,czosnek,rozmaryn,sol;50 minut;1.Pokroj ziemniaki w czastki.2.Wymieszaj z oliwa,czosnkiem i rozmarynem.3.Piecz w 200°C przez 50 minut.
+Chili con carne;mieso mielone,fasola,pomidory,cebula,czosnek,chili,sol,pieprz;40 minut;1.Podsmaz mieso z cebula i czosnkiem.2.Dodaj pomidory,fasole i chili.3.Gotuj na wolnym ogniu przez 30 minut.
+Kasza gryczana z pieczarkami;kasza gryczana,pieczarki,cebula,maslo,sol,pieprz;25 minut;1.Ugotuj kasze zgodnie z instrukcja na opakowaniu.2.Podsmaz pieczarki i cebule na masle.3.Wymieszaj z kasza,dopraw sola i pieprzem.
+Ryz z warzywami;ryz,marchew,papryka,groszek,cebula,olej,sol,pieprz;20 minut;1.Ugotuj ryz.2.Podsmaz warzywa na oleju.3.Wymieszaj z ryzem,dopraw sola i pieprzem.
+Fasolka szparagowa z maslem;fasolka szparagowa,maslo,sol;15 minut;1.Ugotuj fasolke w osolonej wodzie.2.Polej roztopionym maslem i podawaj.
+Puree ziemniaczane;ziemniaki,maslo,mleko,sol;25 minut;1.Ugotuj ziemniaki i zgniec je na puree.2.Dodaj maslo i mleko,wymieszaj.
+Pieczone bataty;bataty,oliwa,sol,pieprz,czosnek;35 minut;1.Pokroj bataty w plastry.2.Wymieszaj z oliwa i przyprawami.3.Piecz w 200°C przez 35 minut.
+Cukinia zapiekana z serem;cukinia,ser zolty,sol,pieprz,oliwa;20 minut;1.Pokroj cukinie w plastry.2.Posyp serem,dopraw sola i pieprzem.3.Zapiekaj w piekarniku w 180°C przez 20 minut.
+Marchewka glazurowana;marchew,maslo,cukier,sol;15 minut;1.Pokroj marchewke w plastry.2.Podsmaz na masle z dodatkiem cukru.3.Dopraw sola.
+Kalafior gotowany;kalafior,sol,maslo;15 minut;1.Ugotuj kalafior w osolonej wodzie.2.Podawaj z roztopionym maslem.
+Salatka ziemniaczana;ziemniaki,ogorek kiszony,cebula,majonez,sol,pieprz;20 minut;1.Ugotuj ziemniaki i pokroj w kostke.2.Dodaj pokrojone ogorki i cebule,wymieszaj z majonezem.
+Makaron z maslem i parmezanem;makaron,maslo,ser parmezan,sol;15 minut;1.Ugotuj makaron.2.Wymieszaj z roztopionym maslem i posyp parmezanem.
+Broku³y z bulka tarta;brokuly,bulka tarta,maslo,sol;15 minut;1.Ugotuj brokuly.2.Posyp podsmazona bulka tarta i podawaj.
+Kuskus z warzywami;kuskus,papryka,cukinia,cebula,marchew,oliwa,sol;15 minut;1.Przygotuj kuskus zgodnie z instrukcja.2.Podsmaz warzywa na oliwie i wymieszaj z kuskusem.
+Pieczarki faszerowane;pieczarki,ser zolty,szynka,cebula,sol,pieprz;20 minut;1.Wydraz kapelusze pieczarek.2.Nadziewaj mieszanka sera,szynki i cebuli.3.Piecz w piekarniku przez 20 minut.
+Papryka pieczona;papryka,oliwa,sol,pieprz;25 minut;1.Pokroj papryke w plastry.2.Skrop oliwa,dopraw sola i pieprzem.3.Piecz w piekarniku przez 25 minut.
+Kapusta kiszona na cieplo;kapusta kiszona,cebula,maslo,sol,pieprz;20 minut;1.Podsmaz cebule na masle.2.Dodaj kapuste i gotuj na wolnym ogniu przez 15 minut.
+Cebula karmelizowana;cebula,maslo,cukier,sol;15 minut;1.Pokroj cebule w plastry.2.Podsmaz na masle z dodatkiem cukru i soli.
+Ziemniaki z koperkiem;ziemniaki,koper,maslo,sol;20 minut;1.Ugotuj ziemniaki.2.Posyp posiekanym koperkiem i dodaj maslo.
+Szpinak z czosnkiem;szpinak,czosnek,oliwa,sol,pieprz;10 minut;1.Podsmaz czosnek na oliwie.2.Dodaj szpinak i smaz az zmiêknie.3.Dopraw sola i pieprzem.
+Frytki z warzyw korzeniowych;marchew,pietruszka,seler,oliwa,sol;30 minut;1.Pokroj warzywa w paski.2.Wymieszaj z oliwa i sola.3.Piecz w piekarniku przez 30 minut.
+Brukselka z boczkiem;brukselka,boczek,sol,pieprz,maslo;20 minut;1.Podsmaz boczek na patelni.2.Dodaj brukselke i dus az zmiêknie.3.Dopraw sola i pieprzem.
+Bruschetta z pomidorami;chleb,pomidory,bazylia,czosnek,oliwa z oliwek,sol,pieprz;15 minut;1.Pokroj pomidory i wymieszaj z bazylia,czosnkiem,oliwa,sola i pieprzem.2.Posmaruj chleb mieszanka i podawaj.
+Tartinki z lososiem;chleb,losos wedzony,serek smietankowy,koper,cytryna;10 minut;1.Posmaruj chleb serkiem.2.Dodaj lososia,koperek i kilka kropli soku z cytryny.
+Rolka z szynka i serem;szynka,ser zolty,salata,majonez;10 minut;1.Na plaster szynki poloz ser,salate i odrobine majonezu.2.Zwin w rulon i podawaj.
+Mini kanapeczki z pasta jajeczna;chleb tostowy,jajka,majonez,szczypiorek,sol,pieprz;15 minut;1.Przygotuj paste jajeczna z jajek i majonezu,dopraw sola i pieprzem.2.Posmaruj chleb i posyp szczypiorkiem.
+Roladki z baklazana;baklazan,ser feta,czosnek,oliwa,sol,pieprz;25 minut;1.Pokroj baklazana na plastry,podsmaz na oliwie.2.Nadziewaj feta i zawijaj w roladki.
+Szaszlyki z mozzarella i pomidorkami koktajlowymi;mozzarella,pomidorki koktajlowe,bazylia,oliwa z oliwek;10 minut;1.Na patyczki nabijaj naprzemiennie mozzarelle,pomidorki i bazylie.2.Skrop oliwa.
+Roladki z tortilli;tortilla,szynka,ser zolty,salata,sos czosnkowy;10 minut;1.Posmaruj tortille sosem,dodaj szynke,ser i salate.2.Zwin w rulon i pokroj na kawalki.
+Koreczki z serem i oliwkami;ser zolty,oliwki,winogrona;10 minut;1.Na patyczki nabijaj ser,oliwki i winogrona.
+Szaszlyki z kurczakiem i warzywami;kurczak,papryka,cukinia,cebula,oliwa,sol,pieprz;30 minut;1.Kurczaka i warzywa pokroj w kawalki.2.Nabijaj na patyczki,smaz lub grilluj.
+Grzanki z czosnkiem;chleb,czosnek,oliwa z oliwek,sol;10 minut;1.Posmaruj chleb oliwa i potarty czosnkiem.2.Piecz w piekarniku do zrumienienia.
+Roladki z szparagami;szparagi,szynka parmenska,ser parmezan;20 minut;1.Zawijaj szparagi w plastry szynki.2.Posyp parmezanem i zapiekaj przez 15 minut.
+Mini tarty z warzywami;ciasto francuskie,papryka,cukinia,pomidory,ser feta;30 minut;1.Pokroj ciasto na kwadraty,uloz warzywa i ser.2.Piecz w 180°C przez 20 minut.
+Chipsy z jarmuzu;jarmuz,oliwa,sol;15 minut;1.Wymieszaj liscie jarmuzu z oliwa i sola.2.Piecz w piekarniku w 150°C przez 10 minut.
+Kuleczki serowe;ser zolty,jajka,maka,bulka tarta;20 minut;1.Uformuj kulki z sera,obtocz w mace,jajku i bulce.2.Smaz na glebokim oleju.
+Salsa pomidorowa z nachos;pomidory,cebula,papryka,czosnek,chili,kolendra;15 minut;1.Pokroj warzywa na drobno,wymieszaj i podawaj z nachos.
+Pasta z baklazana;baklazan,czosnek,tahini,cytryna,oliwa;25 minut;1.Piecz baklazana,nastepnie zblenduj z reszta skladnikow.
+Krewetki na ostro;krewetki,czosnek,chili,maslo,pietruszka;15 minut;1.Podsmaz krewetki z czosnkiem i chili na masle.2.Posyp pietruszka i podawaj.
+Salatka caprese;mozzarella,pomidory,bazylia,oliwa,sol,pieprz;10 minut;1.Pokroj mozzarelle i pomidory,uloz na przemian z bazylia.2.Skrop oliwa,dopraw sola i pieprzem.
+Mini burgery;bulki mini,mielone mieso,ser zolty,salata,pomidor,ketchup;30 minut;1.Uformuj male burgery z miesa.2.Usmaz,uloz w bulce z dodatkami.
+Pieczone kuleczki ziemniaczane;ziemniaki,ser zolty,bulka tarta,jajko,sol;30 minut;1.Zrob kuleczki z ziemniakow i sera.2.Obtocz w jajku i bulce,piecz w piekarniku.
+Sos czosnkowy;czosnek,jogurt naturalny,majonez,sol,pieprz;5 minut;1.Zetrzyj czosnek,wymieszaj z jogurtem i majonezem.2.Dopraw sola i pieprzem.
+Sos pomidorowy;pomidory,czosnek,oliwa,bazylia,sol,pieprz;15 minut;1.Podsmaz czosnek,dodaj pomidory i bazylie.2.Gotuj na wolnym ogniu przez 10 minut.
+Sos koperkowy;koper,jogurt naturalny,majonez,sol,pieprz;5 minut;1.Posiekaj koper i wymieszaj z jogurtem i majonezem.2.Dopraw sola i pieprzem.
+Sos serowy;ser zolty,smietanka,maslo,sol,pieprz;10 minut;1.Rozpusc ser w smietance z maslem.2.Dopraw sola i pieprzem.
+Sos pieczarkowy;pieczarki,smietanka,maslo,cebula,sol,pieprz;15 minut;1.Podsmaz pieczarki z cebula,dodaj smietanke.2.Dopraw sola i pieprzem.
+Sos barbecue;ketchup,cukier,ocet,musztarda,czosnek,sol;10 minut;1.Wymieszaj wszystkie skladniki w garnku i gotuj przez 5 minut.
+Sos tzatziki;jogurt grecki,ogorek,czosnek,oliwa,sol,pieprz;10 minut;1.Zetrzyj ogorek,wymieszaj z jogurtem i czosnkiem.2.Skrop oliwa,dopraw sola i pieprzem.
+Sos curry;mleko kokosowe,curry,cebula,czosnek,sol,pieprz;15 minut;1.Podsmaz cebule i czosnek,dodaj curry i mleko kokosowe.2.Gotuj na wolnym ogniu.
+Sos miodowo-musztardowy;miod,musztarda,oliwa,sok z cytryny;5 minut;1.Wymieszaj wszystkie skladniki do uzyskania jednolitej konsystencji.
+Sos jogurtowo-ziolowy;jogurt naturalny,pietruszka,koperek,bazylia,sol,pieprz;5 minut;1.Posiekaj ziola i wymieszaj z jogurtem.2.Dopraw sola i pieprzem.
+Sos holenderski;jajka,maslo,sok z cytryny,sol,pieprz;15 minut;1.Rozpusc maslo,dodaj ubite zoltka i sok z cytryny.2.Gotuj na parze,az zgestnieje.
+Sos pesto;bazylia,orzeszki piniowe,oliwa,czosnek,ser parmezan;10 minut;1.Zblenduj wszystkie skladniki na gladka mase.
+Sos koperkowo-czosnkowy;jogurt grecki,koper,czosnek,sol,pieprz;5 minut;1.Posiekaj koper i wymieszaj z jogurtem i czosnkiem.2.Dopraw sola i pieprzem.
+Sos malinowy;maliny,cukier,sok z cytryny;10 minut;1.Gotuj maliny z cukrem i sokiem z cytryny przez 5 minut.2.Przecedz przez sitko.
+Sos smietanowy;smietana,czosnek,pietruszka,sol,pieprz;5 minut;1.Wymieszaj smietane z posiekana pietruszka i czosnkiem.2.Dopraw sola i pieprzem.
+Sos cytrynowy;sok z cytryny,maslo,czosnek,sol,pieprz;10 minut;1.Podsmaz czosnek na masle,dodaj sok z cytryny.2.Dopraw sola i pieprzem.
+Sos z awokado;awokado,jogurt grecki,czosnek,sok z limonki,sol;10 minut;1.Zblenduj awokado z jogurtem i czosnkiem.2.Dodaj sok z limonki i sol.
+Sos pikantny;papryka chili,czosnek,ocet,cukier,sol;15 minut;1.Gotuj chili z czosnkiem,octem i cukrem przez 10 minut.2.Zblenduj na gladka mase.
+Sos majonezowo-musztardowy;majonez,musztarda,sok z cytryny,pieprz;5 minut;1.Wymieszaj wszystkie skladniki do uzyskania gladkiej konsystencji.
+Herbata imbirowa;imbir,cytryna,miod,wrzatek;10 minut;1.Zaparz herbate z plasterkami imbiru.2.Dodaj sok z cytryny i miod.
+Koktajl truskawkowy;truskawki,mleko,cukier,jogurt naturalny;5 minut;1.Zblenduj wszystkie skladniki do gladkiej konsystencji.
+Lemoniada cytrynowa;cytryna,woda,cukier,mieta;10 minut;1.Wymieszaj sok z cytryny z woda i cukrem.2.Dodaj liscie mietowe.
+Kawa mrozona;kawa,mleko,kostki lodu,cukier;5 minut;1.Zaparz kawe,wystudz.2.Wymieszaj z mlekiem i podawaj z lodem.
+Smoothie bananowo-szpinakowe;banan,szpinak,sok pomaranczowy;5 minut;1.Zblenduj wszystkie skladniki do gladkiej konsystencji.
+Czekolada na goraco;mleko,czekolada,cukier,smietanka;10 minut;1.Rozpusc czekolade w mleku z cukrem.2.Dodaj ubita smietanke.
+Kompot z rabarbaru;rabarbar,cukier,woda,truskawki;20 minut;1.Gotuj rabarbar z cukrem i woda przez 15 minut.2.Dodaj truskawki na koniec.
+Sok marchewkowo-jablkowy;marchew,jablko,cytryna;5 minut;1.Wycisnij sok z marchewki i jablka,dodaj sok z cytryny.
+Zielona herbata z mieta;zielona herbata,mieta,miod;10 minut;1.Zaparz zielona herbate.2.Dodaj liscie mietowe i miod.
+Koktajl malinowy;maliny,mleko,cukier,jogurt;5 minut;1.Zblenduj wszystkie skladniki do gladkiej konsystencji.
+Mrozona herbata;brzoskwinie,herbata czarna,cukier,lod;10 minut;1.Zaparz herbate,wystudz.2.Dodaj plasterki brzoskwin i lod.
+Lemoniada arbuzowa;arbuz,cytryna,woda,cukier;10 minut;1.Zblenduj arbuz,dodaj sok z cytryny,wode i cukier.
+Koktajl jagodowy;jagody,mleko,jogurt,cukier;5 minut;1.Zblenduj wszystkie skladniki do gladkiej konsystencji.
+Koktajl mango;mango,jogurt,sok z limonki,cukier;5 minut;1.Zblenduj mango z jogurtem i sokiem z limonki.
+Sok z burakow i pomaranczy;burak,pomarancza,cytryna;5 minut;1.Wycisnij sok z buraka,pomaranczy i cytryny.
+Koktajl truskawkowo-bananowy;truskawki,banan,mleko,miod;5 minut;1.Zblenduj wszystkie skladniki do gladkiej konsystencji.
+Lemoniada ogorkowa;ogorek,cytryna,woda,cukier;10 minut;1.Zblenduj ogorek,wymieszaj z sokiem z cytryny,woda i cukrem.
+Zimowy poncz;jablka,pomarancze,cynamon,gozdziki,woda;20 minut;1.Gotuj owoce z przyprawami w wodzie przez 15 minut.
+Herbata z malinami;herbata czarna,maliny,miod;10 minut;1.Zaparz herbate,dodaj maliny i miod.
+Smoothie ananasowe;ananas,sok pomaranczowy,jogurt;5 minut;1.Zblenduj wszystkie skladniki do gladkiej konsystencji.
+Burger klasyczny;bulka,kotlet wolowy,ser zolty,salata,pomidor,ogorek kiszony,ketchup,majonez;20 minut;1.Podsmaz kotlet wolowy.2.Uloz skladniki w bulce.
+Hot-dog;bulka,parowka,ketchup,musztarda,ogorek kiszony,cebula;10 minut;1.Wloz podgrzana parowke do bulki.2.Dodaj dodatki.
+Frytki belgijskie;ziemniaki,olej,sol;30 minut;1.Pokroj ziemniaki w paski.2.Smaz w oleju na zloty kolor.3.Posyp sola.
+Pizza margherita;ciasto na pizze,sos pomidorowy,mozzarella,bazylia;25 minut;1.Posmaruj ciasto sosem,dodaj mozzarelle i bazylie.2.Piecz w 220°C przez 10 minut.
+Tacos;placki tortilla,mieso mielone,salata,pomidor,ser zolty,salsa;20 minut;1.Podsmaz mieso,nadziewaj tortille skladnikami.
+Kebab;placki pita,kurczak,salata,pomidor,ogorek,sos czosnkowy;20 minut;1.Podsmaz kurczaka.2.Wypelnij pity skladnikami i polej sosem.
+Nuggetsy z kurczaka;kurczak,bulka tarta,maka,jajko,sol,pieprz;25 minut;1.Panieruj kawalki kurczaka i smaz w oleju.
+Quesadilla z serem;tortilla,ser zolty,papryka,cebula;10 minut;1.Uloz skladniki na tortilli,zloz na pol i podsmaz na patelni.
+Wrap z kurczakiem;placki tortilla,kurczak,salata,pomidor,sos czosnkowy;15 minut;1.Podsmaz kurczaka,nadziewaj tortille skladnikami.
+Burger z kurczakiem;bulka,filet z kurczaka,salata,pomidor,majonez;20 minut;1.Usmaz filet z kurczaka.2.Uloz skladniki w bulce.
+Pizza pepperoni;ciasto na pizze,sos pomidorowy,mozzarella,pepperoni;25 minut;1.Posmaruj ciasto sosem,dodaj mozzarelle i plasterki pepperoni.2.Piecz w 220°C przez 10 minut.
+Frytki z batatow;bataty,oliwa,sol,pieprz;30 minut;1.Pokroj bataty w paski,wymieszaj z oliwa i przyprawami.2.Piecz w 200°C przez 25 minut.
+Tosty z szynka i serem;chleb,ser zolty,szynka,maslo;10 minut;1.Posmaruj chleb maslem,uloz ser i szynke.2.Zapiekaj w opiekaczu.
+Chicken wings;skrzydelka z kurczaka,marynata barbecue;40 minut;1.Zamarynuj skrzydelka i piecz w piekarniku w 200°C przez 30 minut.
+Panini z warzywami;bulka panini,cukinia,baklazan,papryka,ser feta;20 minut;1.Grilluj warzywa,uloz w bulce z serem.2.Zapiekaj w opiekaczu.
+Pizza hawajska;ciasto na pizze,sos pomidorowy,mozzarella,szynka,ananas;25 minut;1.Posmaruj ciasto sosem,dodaj mozzarelle,szynke i ananasa.2.Piecz w 220°C przez 10 minut.
+Falafel;ciecierzyca,cebula,czosnek,pietruszka,maka,przyprawy;30 minut;1.Zmiksuj skladniki na mase,formuj kulki i smaz na oleju.
+Frytki z serem;frytki,ser zolty,sos czosnkowy;20 minut;1.Przygotuj frytki,posyp startym serem i polej sosem.
+Pizza capricciosa;ciasto na pizze,sos pomidorowy,mozzarella,szynka,pieczarki,oliwki;25 minut;1.Posmaruj ciasto sosem,dodaj skladniki.2.Piecz w 220°C przez 10 minut.
+Nachos z serem;nachos,ser cheddar,jalapeno,salsa;10 minut;1.Posyp nachos serem i jalapeno,zapiekaj w piekarniku przez 5 minut.2.Podawaj z salsa.
+Pieczona kaczka z jablkami;kaczka,jablka,majeranek,sol,pieprz;120 minut;1.Nadziewaj kaczke jablkami.2.Przypraw majerankiem,sola i pieprzem.3.Piecz w 200°C przez 2 godziny.
+Indyk faszerowany;indyk,bulka,mleko,cebula,maslo,natka pietruszki,sol,pieprz;150 minut;1.Przygotuj farsz z namoczonej bulki,cebuli i pietruszki.2.Nadziewaj indyka i piecz w 180°C przez 2,5 godziny.
+Tarta z warzywami;ciasto francuskie,cukinia,pomidory,papryka,ser feta,bazylia;40 minut;1.Rozloz ciasto,dodaj warzywa i ser.2.Piecz w 200°C przez 30 minut.
+Pasztet z watrobki;watrobka drobiowa,cebula,maslo,jajka,bulka,przyprawy;90 minut;1.Podsmaz watrobke z cebula,zmiel i wymieszaj z bulka i jajkami.2.Piecz w 180°C przez 60 minut.
+Roladki z lososiem;losos wedzony,serek smietankowy,koper,cytryna;15 minut;1.Posmaruj lososia serkiem,dodaj koper i sok z cytryny.2.Zwin w roladki i podawaj.
+Szynka pieczona z miodem;szynka wieprzowa,miod,musztarda,czosnek,sol,pieprz;120 minut;1.Natrzyj szynke miodem i musztarda.2.Piecz w piekarniku przez 2 godziny.
+Zrazy wolowe;wolowina,ogorek kiszony,cebula,boczek,musztarda;90 minut;1.Zawijaj skladniki w plastry wolowiny.2.Podsmaz i dus przez 60 minut.
+Salatka jarzynowa;ziemniaki,marchew,groszek,majonez,jajka,ogorek kiszony;30 minut;1.Ugotuj warzywa,pokroj i wymieszaj z majonezem.
+Zurek na zakwasie;zakwas,biala kielbasa,ziemniaki,jajka,majeranek;60 minut;1.Ugotuj zakwas z ziemniakami i kielbasa.2.Dodaj jajka i majeranek.
+Pieczony losos z ziolami;losos,cytryna,rozmaryn,oliwa,sol,pieprz;40 minut;1.Skrop lososia cytryna i posyp ziolami.2.Piecz w 180°C przez 30 minut.
+Bigos;kapusta kiszona,kapusta biala,mieso,grzyby suszone,kielbasa;180 minut;1.Gotuj kapuste z miesem i grzybami.2.Dodaj kielbase i przyprawy.
+Tarta cytrynowa;ciasto kruche,cytryny,cukier,maslo,jajka;50 minut;1.Przygotuj mase cytrynowa.2.Wylej na podpieczony spod i piecz przez 20 minut.
+Karkowka z grilla;karkowka,marynata z musztardy i czosnku;30 minut;1.Zamarynuj karkowke i grilluj przez 15 minut.
+Zapiekanka ziemniaczana z miesem mielonym;ziemniaki,mieso mielone,ser zolty,cebula,smietana;60 minut;1.Uloz warstwy ziemniakow i miesa.2.Posyp serem i zapiekaj w 180°C przez 40 minut.
+Rolada z boczkiem i sliwkami;boczek,suszone sliwki,musztarda,czosnek,sol,pieprz;90 minut;1.Zawijaj sliwki w boczek,piecz w 200°C przez 70 minut.
+Kaczka w pomaranczach;kaczka,pomarancze,miod,imbir,sol,pieprz;120 minut;1.Nadziewaj kaczke pomaranczami.2.Polej miodem i piecz przez 2 godziny.
+Pieczony dorsz z warzywami;dorsz,cukinia,papryka,oliwa,cytryna,sol,pieprz;35 minut;1.Uloz dorsza na warzywach,skrop oliwa i cytryna.2.Piecz przez 30 minut.
+Pieczen z indyka;indyk,maslo,ziola prowansalskie,czosnek,sol,pieprz;90 minut;1.Posmaruj indyka maslem i ziolami.2.Piecz w 180°C przez 1,5 godziny.
+Rogaliki z marmolada;ciasto kruche,marmolada,cukier puder;40 minut;1.Zawin marmolade w ciasto.2.Piecz w 180°C przez 20 minut.
+Salatka sledziowa;sledzie,ziemniaki,cebula,jablka,majonez,sol,pieprz;30 minut;1.Pokroj skladniki,wymieszaj z majonezem.
+Placki z jablkami;jablka,maka,jajka,cukier,mleko,proszek do pieczenia;20 minut;1.Wymieszaj skladniki na gladka mase.2.Smaz placki na zloty kolor.
+Mini pizza;ciasto na pizze,sos pomidorowy,ser zolty,szynka,kukurydza;20 minut;1.Uloz skladniki na malych plackach ciasta.2.Piecz w 200°C przez 10 minut.
+Racuchy z bananami;banany,maka,jajka,mleko,cukier;20 minut;1.Zmiksuj skladniki i smaz male placuszki na patelni.
+Nalesniki z dzemem;maka,jajka,mleko,cukier,dzem;20 minut;1.Przygotuj ciasto na nalesniki.2.Smaz cienkie nalesniki,podawaj z dzemem.
+Zupa krem z marchewki;marchew,ziemniaki,cebula,smietanka,sol,pieprz;25 minut;1.Ugotuj warzywa,zmiksuj na krem.2.Dodaj smietanke i dopraw.
+Salatka owocowa;banan,jablko,pomarancza,kiwi,winogrona;10 minut;1.Pokroj owoce na male kawalki,wymieszaj w misce.
+Mini kotleciki z indyka;indyk mielony,jajko,bulka tarta,sol;20 minut;1.Wymieszaj skladniki,uformuj male kotleciki i usmaz.
+Pudding czekoladowy;mleko,czekolada,maka ziemniaczana,cukier;15 minut;1.Rozpusc czekolade w mleku,dodaj make ziemniaczana i zagotuj.
+Kluski leniwe;ser bialy,jajka,maka,cukier,sol;20 minut;1.Zmieszaj skladniki,uformuj kluski i gotuj w wodzie.
+Frytki z batatow;bataty,oliwa,sol;30 minut;1.Pokroj bataty w paski,wymieszaj z oliwa i sola.2.Piecz w 200°C przez 25 minut.
+Placuszki z cukinii;cukinia,maka,jajka,sol,pieprz;20 minut;1.Zetrzyj cukinie,wymieszaj z maka i jajkami.2.Smaz placuszki na patelni.
+Pasta z jajkiem;jajka,majonez,szczypiorek,sol,pieprz;10 minut;1.Zgniec jajka i wymieszaj z majonezem.2.Dodaj szczypiorek i dopraw.
+Koktajl bananowy;banan,mleko,jogurt,miod;5 minut;1.Zblenduj wszystkie skladniki na gladka mase.
+Tosty z serem i szynka;chleb,ser zolty,szynka,maslo;10 minut;1.Posmaruj chleb maslem,uloz ser i szynke.2.Zapiekaj w opiekaczu.
+Ziemniaki faszerowane;ziemniaki,ser zolty,szynka,cebula,sol;40 minut;1.Wydraz ziemniaki,nadziewaj serem i szynka.2.Piecz w 200°C przez 30 minut.
+Kluski z owocami;maka,jajka,mleko,owoce,cukier;30 minut;1.Przygotuj ciasto na kluski,nadziewaj owocami i ugotuj.
+Rogaliki z czekolada;ciasto francuskie,czekolada;20 minut;1.Zawin kawalki czekolady w ciasto.2.Piecz w 180°C przez 15 minut.
+Zupa mleczna z ryzem;ryz,mleko,cukier,wanilia;20 minut;1.Ugotuj ryz w mleku z cukrem i wanilia.
+Kanapka z warzywami;chleb,maslo,pomidor,ogorek,salata;10 minut;1.Posmaruj chleb maslem,dodaj warzywa.
+Omlet z serem;jajka,ser zolty,maslo,sol;10 minut;1.Wymieszaj jajka,dodaj starty ser i usmaz na masle.
+Owsianka;owsianka,woda;5;1.Przygotuj owsianke zgodnie z instrukcjami
